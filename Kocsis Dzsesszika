@@ -1,0 +1,19 @@
+sudo -i
+sudo apt install net-tools
+ifconfig
+apt get-install ssh
+mc
+etc
+ssh
+ssh legalso -> f4 
+mc
+etc
+netplan
+f4
+sudo netplan apply
+vncserver
+vncserver -kill: sajat kod
+netstat -ant
+vncserver
+sudo apt install tigervnc-standalone-server
+vnc tiger belepes a sajat koddal
